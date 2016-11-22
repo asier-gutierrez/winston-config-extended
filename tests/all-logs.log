@@ -1,0 +1,65 @@
+{"level":"error","message":"Web test error","timestamp":"2014-10-03T11:32:03.553Z"}
+{"level":"warn","message":"Web test warn","timestamp":"2014-10-03T11:32:03.554Z"}
+{"level":"info","message":"Web test info","timestamp":"2014-10-03T11:32:03.554Z"}
+{"level":"error","message":"Web test error","timestamp":"2014-10-03T11:35:57.765Z"}
+{"level":"warn","message":"Web test warn","timestamp":"2014-10-03T11:35:57.766Z"}
+{"level":"info","message":"Web test info","timestamp":"2014-10-03T11:35:57.766Z"}
+{"level":"error","message":"Web test error","timestamp":"2014-10-03T11:43:32.954Z"}
+{"level":"warn","message":"Web test warn","timestamp":"2014-10-03T11:43:32.955Z"}
+{"level":"info","message":"Web test info","timestamp":"2014-10-03T11:43:32.955Z"}
+{"level":"error","message":"Web test error","timestamp":"2014-10-03T11:44:16.328Z"}
+{"level":"warn","message":"Web test warn","timestamp":"2014-10-03T11:44:16.329Z"}
+{"level":"info","message":"Web test info","timestamp":"2014-10-03T11:44:16.329Z"}
+{"level":"error","message":"Web test error","timestamp":"2014-10-03T11:44:21.314Z"}
+{"level":"warn","message":"Web test warn","timestamp":"2014-10-03T11:44:21.315Z"}
+{"level":"info","message":"Web test info","timestamp":"2014-10-03T11:44:21.315Z"}
+{"level":"error","message":"Sync: Web test error","timestamp":"2014-10-03T11:51:17.899Z"}
+{"level":"warn","message":"Sync: Web test warn","timestamp":"2014-10-03T11:51:17.900Z"}
+{"level":"info","message":"Sync: Web test info","timestamp":"2014-10-03T11:51:17.900Z"}
+{"level":"error","message":"Promise: Test error","timestamp":"2014-10-03T11:51:17.904Z"}
+{"level":"warn","message":"Promise: Test warn","timestamp":"2014-10-03T11:51:17.905Z"}
+{"level":"info","message":"Promise: Test info","timestamp":"2014-10-03T11:51:17.905Z"}
+{"level":"error","message":"Promise: Web test error","timestamp":"2014-10-03T11:51:17.906Z"}
+{"level":"warn","message":"Promise: Web test warn","timestamp":"2014-10-03T11:51:17.906Z"}
+{"level":"info","message":"Promise: Web test info","timestamp":"2014-10-03T11:51:17.906Z"}
+{"level":"error","message":"Sync: Web test error","timestamp":"2014-10-03T11:52:24.002Z"}
+{"level":"warn","message":"Sync: Web test warn","timestamp":"2014-10-03T11:52:24.003Z"}
+{"level":"info","message":"Sync: Web test info","timestamp":"2014-10-03T11:52:24.003Z"}
+{"level":"error","message":"Sync: Web test error","timestamp":"2014-10-03T11:52:53.942Z"}
+{"level":"warn","message":"Sync: Web test warn","timestamp":"2014-10-03T11:52:53.943Z"}
+{"level":"info","message":"Sync: Web test info","timestamp":"2014-10-03T11:52:53.943Z"}
+{"level":"error","message":"Promise: Test error","timestamp":"2014-10-03T11:52:56.967Z"}
+{"level":"error","message":"Sync: Web test error","timestamp":"2014-10-03T11:54:25.132Z"}
+{"level":"warn","message":"Sync: Web test warn","timestamp":"2014-10-03T11:54:25.133Z"}
+{"level":"info","message":"Sync: Web test info","timestamp":"2014-10-03T11:54:25.133Z"}
+{"level":"error","message":"Promise: Test error","timestamp":"2014-10-03T11:54:27.152Z"}
+{"level":"error","message":"Sync: Web test error","timestamp":"2014-10-03T11:56:21.264Z"}
+{"level":"warn","message":"Sync: Web test warn","timestamp":"2014-10-03T11:56:21.265Z"}
+{"level":"info","message":"Sync: Web test info","timestamp":"2014-10-03T11:56:21.265Z"}
+{"level":"error","message":"Promise: Test error","timestamp":"2014-10-03T11:56:21.269Z"}
+{"level":"warn","message":"Promise: Test warn","timestamp":"2014-10-03T11:56:21.269Z"}
+{"level":"error","message":"Promise: Web test error","timestamp":"2014-10-03T11:56:21.270Z"}
+{"level":"info","message":"Promise: Test info","timestamp":"2014-10-03T11:56:21.270Z"}
+{"level":"warn","message":"Promise: Web test warn","timestamp":"2014-10-03T11:56:21.270Z"}
+{"level":"error","message":"Callback: Web test error","timestamp":"2014-10-03T11:56:21.273Z"}
+{"level":"info","message":"Promise: Web test info","timestamp":"2014-10-03T11:56:21.271Z"}
+{"level":"warn","message":"Callback: Web test warn","timestamp":"2014-10-03T11:56:21.274Z"}
+{"level":"error","message":"Callback: Test error","timestamp":"2014-10-03T11:56:21.272Z"}
+{"level":"info","message":"Callback: Web test info","timestamp":"2014-10-03T11:56:21.274Z"}
+{"level":"warn","message":"Callback: Test warn","timestamp":"2014-10-03T11:56:21.272Z"}
+{"level":"info","message":"Callback: Test info","timestamp":"2014-10-03T11:56:21.272Z"}
+{"level":"error","message":"Sync: Web test error","timestamp":"2014-10-03T12:01:34.604Z"}
+{"level":"warn","message":"Sync: Web test warn","timestamp":"2014-10-03T12:01:34.605Z"}
+{"level":"info","message":"Sync: Web test info","timestamp":"2014-10-03T12:01:34.605Z"}
+{"level":"error","message":"Promise: Test error","timestamp":"2014-10-03T12:01:34.608Z"}
+{"level":"warn","message":"Promise: Test warn","timestamp":"2014-10-03T12:01:34.608Z"}
+{"level":"error","message":"Promise: Web test error","timestamp":"2014-10-03T12:01:34.608Z"}
+{"level":"error","message":"Callback: Web test error","timestamp":"2014-10-03T12:01:34.609Z"}
+{"level":"info","message":"Promise: Test info","timestamp":"2014-10-03T12:01:34.608Z"}
+{"level":"warn","message":"Promise: Web test warn","timestamp":"2014-10-03T12:01:34.608Z"}
+{"level":"warn","message":"Callback: Web test warn","timestamp":"2014-10-03T12:01:34.609Z"}
+{"level":"info","message":"Promise: Web test info","timestamp":"2014-10-03T12:01:34.608Z"}
+{"level":"info","message":"Callback: Web test info","timestamp":"2014-10-03T12:01:34.609Z"}
+{"level":"error","message":"Callback: Test error","timestamp":"2014-10-03T12:01:34.609Z"}
+{"level":"warn","message":"Callback: Test warn","timestamp":"2014-10-03T12:01:34.609Z"}
+{"level":"info","message":"Callback: Test info","timestamp":"2014-10-03T12:01:34.609Z"}

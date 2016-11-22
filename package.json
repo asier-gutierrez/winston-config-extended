@@ -1,0 +1,17 @@
+{
+    "name": "winston-config-extended",
+    "version": "1.0.2",
+    "private": true,
+    "main" : "./index.js",
+    "scripts": {
+        "test": "mocha -R spec ./tests/mocha/index.js"
+    },
+    "dependencies":{
+        "winston": "*",
+        "bluebird": "*",
+        "underscore": "*"
+    },
+    "devDependencies":{
+        "mocha": "*"
+    }
+}
