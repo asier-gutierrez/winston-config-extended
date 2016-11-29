@@ -20,13 +20,13 @@ var Promise = require('bluebird'),
             "transports": [
             ],
             "levels": {
-                "all": 0,
-                "verbose": 1,
-                "debug": 2,
+                "all": 6,
+                "verbose": 5,
+                "debug": 4,
                 "info": 3,
-                "warn": 4,
-                "error": 5,
-                "none": 6
+                "warn": 2,
+                "error": 1,
+                "none": 0
             },
             "colors": {
                 "all": "white",
@@ -43,7 +43,7 @@ var Promise = require('bluebird'),
     EmptyLogger = function EmptyLogger(){};
 
 var pathResolve = function(fileName){
-    fileName = fileName || './config/winston-config.json'
+    fileName = fileName || './config/winston-config.json';
     var extName = path.extname(fileName);
     if(extName != '.json')
         throw new TypeError('Invalid config file type. Config file must be a json');
